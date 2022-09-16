@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is Samiul
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://github.com/samiul1970/samiul1970/blob/main/github-header-image.png)
 
