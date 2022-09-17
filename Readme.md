@@ -11,9 +11,11 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![Samiul's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiul1970&show_icons=true&theme=radical)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiul1970&hide=contribs,prs)
 
 ![Samiul's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiul1970&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiul1970&show_icons=true)
 
 
 
