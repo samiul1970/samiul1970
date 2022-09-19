@@ -25,7 +25,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <img align=top img src="  https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" >
 <div>
  
-![Theoretically Productive](https://img.shields.io/badge/THEORETICAL-blueviolet)
+![Matlab](https://img.shields.io/badge/MATLAB-blueviolet)
+![Latex](https://img.shields.io/badge/Latex-blue)
+![5G](https://img.shields.io/badge/5G-green)
  
 
  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
