@@ -1,7 +1,7 @@
 <img src="https://github.com/samiul1970/samiul1970/blob/main/cloud.jpg" width="1000" height="340">
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-<img src="https://github.com/samiul1970/Image/blob/main/giphy-downsized-large.gif" width="1000" height="340">
+
 ### Hi there 👋, my name is Samiul
 #### I am GitHub Readme Generator's creator
 
@@ -22,7 +22,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <img align=top img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" >
 <img align=top img src="  https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" >
 <div>
-  
+
   
   
   https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white
