@@ -25,7 +25,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <img align=top img src="  https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" >
 <div>
  
-
+![Theoretically Productive](https://img.shields.io/badge/THEORETICAL-blueviolet)
  
 
  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -50,3 +50,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
  [![My Skills](https://skillicons.dev/icons?i=ai,tensorflow,pytorch&perline=6)](https://skillicons.dev)
 
   
+![The Adafruit Discord Badge](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/badges/adafruit_discord.svg)
