@@ -29,6 +29,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
  ### Cloud Programming languages and Frameworks
  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=6)](https://skillicons.dev)
  ## Machine learning and Deeplearning Frameworks
- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=6)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&perline=6)](https://skillicons.dev)
 
   
