@@ -23,6 +23,10 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <img align=top img src="  https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" >
 <div>
 
+ 
+### Cloud
+ [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=6)](https://skillicons.dev)
+ ### Cloud Programming languages and Frameworks
  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=6)](https://skillicons.dev)
 
   
