@@ -19,7 +19,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
  #### 2 Cloud Computing [![My Skills](https://skillicons.dev/icons?i=aws&perline=1)](https://skillicons.dev)
  
  
- #### 3 Wireless Tecnologies [![My Skills](https://skillicons.dev/icons?i=aws&perline=1)](https://skillicons.dev)
+ #### 3 Wireless Tecnologies ![5G](https://img.shields.io/badge/5G-green)
  
  
 
