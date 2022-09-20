@@ -3,7 +3,7 @@
 #### I am GitHub Readme Generator's creator
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-### Skills: 
+### Technical Skills: 
 #### 1 Machine Learnig and Deep learning
  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23#ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
@@ -46,7 +46,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
  
  #### 6 Certifications and Badges Earned
- - **Three AWS and Fiech Badges**
+ - Three **AWS** and **FITech** Badges
  
 <p align="center">
   <img width="800" height="400" src="https://github.com/samiul1970/samiul1970/blob/main/Badges.gif">
