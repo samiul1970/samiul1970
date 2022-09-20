@@ -29,16 +29,16 @@ I made this project just for fun, it allows you to create nice and simple GitHub
  ![Mobile Communication](https://img.shields.io/badge/Mobile-Communication-blue)
  ![Visible light Communication](https://img.shields.io/badge/VisibleLight-Communications-blue)
  
- ![5G2](https://img.shields.io/badge/5G-blue): First PH.D in Finland in Visible Light Communications
+ First PH.D in Finland in Visible Light Communications  ![5G2](https://img.shields.io/badge/Helsinginsanomat-blue)
  
  Number of Publications: **24**
  
  View my Research Articles ---> [Publications](https://www.researchgate.net/profile/Helal-Chowdhury)
 
- [Publications](https://www.researchgate.net/profile/Helal-Chowdhury)
- ![5G2](https://img.shields.io/badge/5G-blue): 
+
+
  
-  #### 5 Others
+ #### 5 Others
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -54,36 +54,12 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-![Samiul's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiul1970&show_icons=true&theme=radical)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiul1970&hide=contribs,prs)
-
-![Samiul's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiul1970&show_icons=true&theme=radical)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiul1970&show_icons=true)
 
 
-![Matlab](https://img.shields.io/badge/MATLAB-blueviolet)
-![Latex](https://img.shields.io/badge/Latex-blue)
-![5G](https://img.shields.io/badge/5G-green)
- 
 
- #### Cloud
- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=6)](https://skillicons.dev)
-  - AWS cloud1
-  - AWS
-  - BLA
 
- ### Cloud Programming languages and Frameworks
- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=6)](https://skillicons.dev)
- ## Machine learning and Deeplearning Frameworks
- [![My Skills](https://skillicons.dev/icons?i=ai,tensorflow,pytorch&perline=6)](https://skillicons.dev)
-https://github.com/samiul1970/samiul1970/blob/main/matlab-svgrepo-com.svg
-  
-![The Adafruit Discord Badge](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/badges/adafruit_discord.svg)
 
-![Matlab](https://github.com/samiul1970/samiul1970/blob/main/matlab-svgrepo-com.svg)
+
+
+
+
