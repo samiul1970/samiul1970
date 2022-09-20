@@ -25,7 +25,9 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
  #### 4 Wireless Tecnologies 
- [5G](https://img.shields.io/badge/5G-blue)
+ ![5G](https://img.shields.io/badge/5G-blue)
+ ![Mobile Communication](https://img.shields.io/badge/Mobile-Communication-blue)
+ ![Visible light Communication](https://img.shields.io/badge/VisibleLight-Communications-blue)
  
   #### 5 Others
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
