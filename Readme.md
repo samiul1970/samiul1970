@@ -45,10 +45,10 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
  
  #### 6 Certifications and Badges Earned
+ - Three AWS and Fiech Badges
  
-
 <p align="center">
-  <img width="560" height="300" src="https://github.com/samiul1970/samiul1970/blob/main/Badges.gif">
+  <img width="800" height="400" src="https://github.com/samiul1970/samiul1970/blob/main/Badges.gif">
     </p>
 
 
