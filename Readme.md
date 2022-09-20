@@ -16,12 +16,22 @@ I made this project just for fun, it allows you to create nice and simple GitHub
  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
  
  
- #### 2 Cloud Computing [![My Skills](https://skillicons.dev/icons?i=aws&perline=1)](https://skillicons.dev)
+ #### 2 Cloud Computing 
  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+  #### 3 Programming Languages and Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Matlab](https://img.shields.io/badge/MATLAB-blueviolet)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+ #### 4 Wireless Tecnologies ![5G](https://img.shields.io/badge/5G-green)
  
+  #### 5 Others
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
  
- #### 3 Wireless Tecnologies ![5G](https://img.shields.io/badge/5G-green)
  
  
 
