@@ -32,13 +32,15 @@ I made this project just for fun, it allows you to create nice and simple GitHub
  ![5G2](https://img.shields.io/badge/5G-blue): First PH.D in Finland in Visible Light Communications
  
  Publications: 24
+ 
+ View my Research Articles --> ![5G2](https://img.shields.io/badge/5G-blue): 
   #### 5 Others
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
  
- #### 6 Certifications Badges Earned
+ #### 6 Certifications and Badges Earned
  
 
 <p align="center">
