@@ -28,12 +28,13 @@ I made this project just for fun, it allows you to create nice and simple GitHub
  ![5G](https://img.shields.io/badge/5G-blue)
  ![Mobile Communication](https://img.shields.io/badge/Mobile-Communication-blue)
  ![Visible light Communication](https://img.shields.io/badge/VisibleLight-Communications-blue)
+ ![Signal Processing](https://img.shields.io/badge/Signal-Processing-blue)
  
  First PH.D in Finland in Visible Light Communications  ![5G2](https://img.shields.io/badge/Helsinginsanomat-blue)
  
  Number of Publications: **24**
  
- View my Research Articles ---> [Publications](https://www.researchgate.net/profile/Helal-Chowdhury)
+ View My Research Articles ---> [Publications](https://www.researchgate.net/profile/Helal-Chowdhury)
 
 
 
