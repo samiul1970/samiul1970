@@ -31,11 +31,12 @@ I made this project just for fun, it allows you to create nice and simple GitHub
  
  ![5G2](https://img.shields.io/badge/5G-blue): First PH.D in Finland in Visible Light Communications
  
- Publications: 24
+ Number of Publications: **24**
  
- View my Research Articles --> ![5G2](https://img.shields.io/badge/5G-blue): 
+ View my Research Articles ---> [Publications](https://www.researchgate.net/profile/Helal-Chowdhury)
 
- [Helal](https://www.researchgate.net/profile/Helal-Chowdhury)
+ [Publications](https://www.researchgate.net/profile/Helal-Chowdhury)
+ ![5G2](https://img.shields.io/badge/5G-blue): 
  
   #### 5 Others
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
