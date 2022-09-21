@@ -1,8 +1,8 @@
-<img src="https://github.com/samiul1970/samiul1970/blob/main/cloud.jpg" width="1000" height="340">
-### Hi there 👋, my name is Samiul
-#### I am GitHub Readme Generator's creator
+<img src="https://github.com/samiul1970/samiul1970/blob/main/Welcome2.png" width="1000" height="340">
+### Hi there 👋, my name
+#### to be----
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+more textto be added.
 ### Technical Skills: 
 #### 1 Machine Learnig and Deep learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -28,13 +28,13 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ![Matlab](https://img.shields.io/badge/MATLAB-blueviolet)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
- #### 4 Wireless Tecnologies 
+ #### 4 Wireless Technologies 
  ![5G](https://img.shields.io/badge/5G-blue)
  ![Mobile Communication](https://img.shields.io/badge/Mobile-Communication-blue)
  ![Visible light Communication](https://img.shields.io/badge/VisibleLight-Communications-blue)
  ![Signal Processing](https://img.shields.io/badge/Signal-Processing-blue)
  
- First PH.D in Finland in Visible Light Communications  ![5G2](https://img.shields.io/badge/Helsinginsanomat-blue)
+ **First** PH.D in Finland in Visible Light Communications  ![5G2](https://img.shields.io/badge/Helsinginsanomat-blue)
  
  Number of Publications: **24**
  
