@@ -34,7 +34,7 @@ more textto be added.
  ![Visible light Communication](https://img.shields.io/badge/VisibleLight-Communications-blue)
  ![Signal Processing](https://img.shields.io/badge/Signal-Processing-blue)
  
- **First** PH.D in Finland in Visible Light Communications  ![5G2](https://img.shields.io/badge/Helsinginsanomat-blue)
+ **First** PH.D in Finland in Visible Light Communications 
  
  Number of Publications: **24**
  
