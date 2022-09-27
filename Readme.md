@@ -58,22 +58,12 @@ more textto be added.
     </p>
     
     
-   <img align="left" width="100" height="100" src=" https://github.com/samiul1970/samiul1970/blob/main/AWS.jpeg">
-    
-    
-    
-    - AWS CLOUD PRACTIONER
-    - AWS SOLUTION ARCHITECT
-    - AWS MACHINE LEARNING SPECIALITY
-    
-    
- 
  
  <img align="left" width="100" height="100" src="https://github.com/samiul1970/samiul1970/blob/main/FITECH.jpeg">
     
-    - AWS CLOUD PRACTIONER
-    - AWS SOLUTION ARCHITECT
-    - AWS MACHINE LEARNING SPECIALITY
+    - Machine Learnig with Python
+    - Deep Learning with Python
+    - Deep Learning
 
 
 
