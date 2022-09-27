@@ -67,7 +67,9 @@ more textto be added.
     - AWS MACHINE LEARNING SPECIALITY
     
     
-  <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+ 
+ 
+ <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
     
     - AWS CLOUD PRACTIONER
     - AWS SOLUTION ARCHITECT
