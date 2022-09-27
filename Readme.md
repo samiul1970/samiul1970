@@ -53,9 +53,7 @@ more textto be added.
  #### 6 Certifications and Badges Earned
  - Three **AWS** and **FITech** Badges(Aalto University, Finland)
  
-<p align="center">
-  <img width="800" height="400" src="https://github.com/samiul1970/samiul1970/blob/main/Badges.gif">
-    </p>
+
     
     
  
@@ -74,7 +72,6 @@ more textto be added.
 
 
 
-https://github.com/samiul1970/samiul1970/blob/main/image.png
 
 
 
