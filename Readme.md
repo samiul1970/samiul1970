@@ -38,7 +38,7 @@ more textto be added.
  
  Number of Publications: **24**
  
- View My Research Articles ---> [Publications](https://www.researchgate.net/profile/Helal-Chowdhury)
+ View My Research Articles ---> [***Publications***](https://www.researchgate.net/profile/Helal-Chowdhury)
 
 
 
@@ -49,6 +49,9 @@ more textto be added.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+
+
  
  #### 6 Certifications and Badges Earned
  - Three **AWS** and **FITech** Badges(Aalto University, Finland)
