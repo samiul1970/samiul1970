@@ -79,7 +79,7 @@ more textto be added.
 
 | AWS Cloud Practitioner 	| AWS Solution Architect 	| AWS Machine Learning Speciality 	|
 |---	|---	|---	|
-|<img src="https://github.com/samiul1970/samiul1970/blob/main/image.png" width="100" height="100"> 	| <img src="https://github.com/samiul1970/samiul1970/blob/main/image.png" width="100" height="100">  	|  <img src="https://github.com/samiul1970/samiul1970/blob/main/image.png" width="100" height="100"> 	|
+|<img src="https://github.com/samiul1970/samiul1970/blob/main/image.png" width="150" height="150"> 	| <img src="https://github.com/samiul1970/samiul1970/blob/main/image.png" width="100" height="100">  	|  <img src="https://github.com/samiul1970/samiul1970/blob/main/image.png" width="100" height="100"> 	|
 
 
 
