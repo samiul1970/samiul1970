@@ -56,6 +56,23 @@ more textto be added.
 <p align="center">
   <img width="800" height="400" src="https://github.com/samiul1970/samiul1970/blob/main/Badges.gif">
     </p>
+    
+    
+   <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+    
+    
+    
+    - AWS CLOUD PRACTIONER
+    - AWS SOLUTION ARCHITECT
+    - AWS MACHINE LEARNING SPECIALITY
+    
+    
+  <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+    
+    - AWS CLOUD PRACTIONER
+    - AWS SOLUTION ARCHITECT
+    - AWS MACHINE LEARNING SPECIALITY
+
 
 
 
