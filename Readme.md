@@ -77,8 +77,9 @@ more textto be added.
 
 
 
-
-
+| AWS Cloud Practitioner 	| AWS Solution Architect 	| AWS Machine Learning Speciality 	|
+|---	|---	|---	|
+|  	|  	|  	|
 
 
 
