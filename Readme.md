@@ -1,4 +1,4 @@
-<img src="https://github.com/samiul1970/samiul1970/blob/main/Welcome2.png" width="1000" height="340">
+<img src="https://github.com/samiul1970/samiul1970/blob/main/design.png" width="1000" height="340">
 ### Hi there 👋, my name
 #### to be----
 
