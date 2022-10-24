@@ -1,5 +1,5 @@
 <img src="https://github.com/samiul1970/samiul1970/blob/main/design.gif" width="1000" height="340">
-### Hi there 👋, my name
+### Hi there 👋, my name is Helal Chowdhury. I am from Finland leaving in Espoo. You can find me on
 <p align="left">
 <a href="https://www.linkedin.com/in/helal-ch"><img alt="LinkedIn" title="LinkedIn" height="20" width="20" src="https://github.com/samiul1970/samiul1970/blob/main/linkedin.svg"></a>
 </p>
